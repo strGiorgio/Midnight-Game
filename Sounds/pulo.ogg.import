@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/pulo.ogg-fd8f5fbaa6c7f601f0fc49e2c595aadc.oggstr"
+
+[deps]
+
+source_file="res://Sounds/pulo.ogg"
+dest_files=[ "res://.import/pulo.ogg-fd8f5fbaa6c7f601f0fc49e2c595aadc.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
