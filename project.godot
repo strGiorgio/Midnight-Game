@@ -24,6 +24,10 @@ window/size/height=720
 window/size/resizable=false
 window/stretch/aspect="keep"
 
+[global]
+
+layer=false
+
 [importer_defaults]
 
 texture={
