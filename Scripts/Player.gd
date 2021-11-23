@@ -129,3 +129,9 @@ func _on_checkpoint1_body_entered(body):
 	if body.name == "Player":
 		var coords = get_position()
 		changeCheck(coords[1], coords[0])
+
+
+func _on_revertGravity_body_entered(body):
+	if body.name == "Player":
+		gravity = -30
+		jump_force = 600

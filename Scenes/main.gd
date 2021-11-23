@@ -18,3 +18,6 @@ func _physics_process(delta):
 	b = (sin((time * freq) + 4) * amplitude) + amplitude
 	
 #	print(r)
+
+
+
